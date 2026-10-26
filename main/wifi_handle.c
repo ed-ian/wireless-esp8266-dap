@@ -41,7 +41,7 @@
 #endif
 
 #ifndef CONFIG_AP_SSID
-#define CONFIG_AP_SSID          "DAP"
+#define CONFIG_AP_SSID          "DAP_ESP32"
 #endif
 
 #ifndef CONFIG_AP_PASSWORD
